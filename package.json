@@ -1,5 +1,5 @@
 {
-  "name": "extract-zip",
+  "name": "@w33ble/extract-zip",
   "version": "1.6.5",
   "description": "unzip a zip file into a directory using 100% javascript",
   "main": "index.js",
